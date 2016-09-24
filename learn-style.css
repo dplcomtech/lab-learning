@@ -1,0 +1,58 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  margin: 0 auto;
+  width: 80%;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto Slab', serif;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #A4C14E;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+.audio {
+  background: #0B9EDA;
+  color: #fff;
+}
+
+.coding {
+  background: #0E8D45;
+}
+
+.design {
+  background: #F1B81C;
+}
+
+.games {
+  background: #F58124;
+}
+
+.video {
+  background: #EE2D2A;
+}
+
+.electronics {
+  background: #1F4393;
+}
+
+.home {
+  background: #808284;
+}
+
+.home img {
+  float: right;
+  width: 30%;
+  margin: 0 0 2% 2%;
+}
